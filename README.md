@@ -13,7 +13,7 @@
 
 - 📄 Learn about my experiences [https://resume.io/r/7nX5EX8tt](https://resume.io/r/7nX5EX8tt)
 
-- ⚡ Fun fact **I love soccer! Hala Madrid!**
+- ⚡ Fun facts **I love futbol! Hala Madrid!** **I love landscape photography! ⛰️📸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
