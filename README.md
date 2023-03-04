@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Segura</h1>
 <h3 align="center">A Software Engineer looking for the next level</h3>
 
-- 🔭 I’m currently working on The Drunken Nomads landing page
+- 🔭 I’m currently working on the PixelVisionize login page
 
 - 🌱 I’m currently learning **Mongo.db Express.js React.js Node.js**
 
