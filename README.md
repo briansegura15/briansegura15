@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian Segura</h1>
 <h3 align="center">A Software Engineer looking for the next level</h3>
 
-- 🔭 I’m currently working on the PixelVisionize login page
+- 🔭 I’m currently working on the the Ruby on Rails Tutorial by Micheal Hartl
 
-- 🌱 I’m currently learning **Mongo.db Express.js React.js Node.js**
+- 🌱 I’m currently learning **Rails**
 
 - 👨‍💻 All of my projects are available at [myPortfolio.com](https://briansegura15.github.io/portfolioPage/)
 
-- 💬 Ask me about **Javascript and all things tech related**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **briansegura093@gmail.com**
 
