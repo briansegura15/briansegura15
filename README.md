@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian Segura</h1>
 <h3 align="center">A Software Engineer looking for the next level</h3>
 
-- 🔭 I’m currently working on the the Ruby on Rails Tutorial by Micheal Hartl
+- 🔭 I’m currently contributing to my first open source community project! Its called Amplify by ProgramEquity.
 
-- 🌱 I’m currently learning **Rails**
+- 🌱 I’m currently learning **Rails** **React** and sharpening my authentication skills
 
 - 👨‍💻 All of my projects are available at [myPortfolio.com](https://briansegura15.github.io/portfolioPage/)
 
