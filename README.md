@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently contributing to my first open source community project! Its called Amplify by ProgramEquity.
 
-- 🌱 I’m currently learning **Rails** **React** and sharpening my authentication skills
+- 🌱 I’m currently learning **Rails**, **React** and sharpening my authentication skills
 
 - 👨‍💻 All of my projects are available at [myPortfolio.com](https://briansegura15.github.io/portfolioPage/)
 
