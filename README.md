@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently contributing to my first open source community project! Its called Amplify by ProgramEquity.
 
-- 🌱 I’m currently learning **AngularJS** and how to integrate it with MongoDB + Node
+- 🌱 I’m currently learning **Next.js and TypeScript** 
 
 - 👨‍💻 All of my projects are available at [myPortfolio.com](https://briansegura15.github.io/portfolioPage/)
 
