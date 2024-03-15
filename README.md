@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian Segura</h1>
 <h3 align="center">A Software Engineer looking for the next level</h3>
 
-- 🔭 I’m currently contributing to my first open source community project! Its called Amplify by ProgramEquity.
+- 🔭 I’m currently working on a side project and I will call in Metal&Ice
 
 - 🌱 I’m currently learning **Next.js and TypeScript** 
 
 - 👨‍💻 All of my projects are available at [myPortfolio.com](https://briansegura15.github.io/portfolioPage/)
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **briansegura093@gmail.com**
-
-- 📄 Learn about my experiences [https://resume.io/r/7nX5EX8tt](https://resume.io/r/7nX5EX8tt)
 
 - ⚡ Fun facts **I love futbol! Hala Madrid!** **I love landscape photography! ⛰️📸**
 
