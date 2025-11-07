@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Segura</h1>
 <h3 align="center">A Software Engineer looking for the next level</h3>
 
-- 🔭 I’m currently working on a side project and I will call in Metal&Ice
+- 🔭 I’m currently working on a side project called Metal&Ice
 
 - 🌱 I’m currently learning **Next.js and TypeScript** 
 
